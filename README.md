@@ -1,10 +1,10 @@
 # Ultimate Most Advanced - Console Version
-🔰 A advanced console for windows users, with a lot functions. Of course is not finished, but i guess i wanna keep working at that.
+🔰 A advanced console for windows users, with a lot functions. Of course is not finished, but I guess I wanna keep working at that.
 Coming Soon updates will come.
 
 ## Description
-💻 Ultimate Most Advanced or U.M.A, started when i tried to use Windows Command Prompt, to make HTTP's Request... How you thinking.. Not worked.
-So, i created this and have a lot functions, like:
+💻 Ultimate Most Advanced or U.M.A, started when I tried to use Windows Command Prompt, to make HTTP's Request... How you thinking.. Not worked.
+So, I created this and have a lot functions, like:
 
 - Web HTTP request.
 - IP Address request.
@@ -63,8 +63,6 @@ clear
 ```
 
 ## Social Medias
-🎧 Discord: MrSev7en#1968
-
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
 
 ## License
