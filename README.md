@@ -66,7 +66,7 @@ clear
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
 
 ## License
-This project particularly don't have restrictions. Community help will be great, if you wanna help us with your modification, send in [Pull requests](https://github.com/MrSev7en/ultimate-most-advanced/pulls).
+This project particularly don't have restrictions. Community help will be great, if you wanna help me with your modification, send in [Pull requests](https://github.com/MrSev7en/ultimate-most-advanced/pulls).
 
 But the license is [MIT](https://github.com/MrSev7en/ultimate-most-advanced/blob/master/LICENSE), check clicking in link.
 
