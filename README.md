@@ -1,6 +1,6 @@
 # Ultimate Most Advanced - Console Version
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/lfs-insim-base)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/ultimate-most-advanced)
 
 🔰 A advanced console for windows users, with a lot functions. Of course is not finished, but I guess I wanna keep working at that.
 Coming Soon updates will come.
