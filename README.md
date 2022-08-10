@@ -1,76 +1,63 @@
 # Ultimate Most Advanced - Console Version
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/ultimate-most-advanced)
+<div>
+  <p>
+    <a href="https://github.com/MrSev7en/ultimate-most-advanced">
+      <img src="https://badgen.net/badge/build/passing/green">
+      <img src="https://badgen.net/badge/deprecated/project/black">
+    </a>
+  </p>
+</div>
 
-🔰 A advanced console for windows users, with a lot functions. Of course is not finished, but I guess I wanna keep working at that.
-Coming Soon updates will come.
+🔰 An advanced console for windows users including several useful functions.
+This project is deprecated. New version soon.
 
 ## Description
-💻 Ultimate Most Advanced or U.M.A, started when I tried to use Windows Command Prompt, to make HTTP's Request... How you thinking.. Not worked.
-So, I created this and have a lot functions, like:
+💻 Ultimate Most Advanced (aka U.M.A) was developed with purpose to make several http requests in high scale.
+At this version, project inlcudes these functions:
 
-- Web HTTP request.
-- IP Address request.
-- Socket IP Send, with prefab words selected by user.
-- Multicore threads sending.
-- And more functions.
+- HTTP request
+- Socket request
+- Multicore threading management
 
-🚧 Warning, when you wanna send a prefab word to IP Address or Web HTTP Request, split the words with **_** or **-**, or not will work. Other thing, the Web HTTP Request, works with HTTPS too.
+## Issues
+🏗️ Collaborate with me sending [issues](https://github.com/MrSev7en/ultimate-most-advanced/issues)
 
-## Help Me
-🏗️ If you finded a bug or something like, put in [Issues](https://github.com/MrSev7en/ultimate-most-advanced/issues), detail then, and tell me everything thats happen.
+## Examples
 
-## Command Examples
+### Without multicore
+Using less cpu and ram;
 
-### Without Multicore
-Using less CPU and RAM.
-
-- First example, sending a IP Request for IP Address.
+- Sending an socket request:
 ```csharp
-web send -a <ip> -a <request amount> -p <request size> -i <port>
+web send -a <ip> -a <request amount> -p <size> -i <port>
 ```
 
-- Second example, sending a Web HTTP Request for a Website.
+- Sending an http request:
 ```csharp
-web send -s <url> -a <request amount> -p <request size> -w <request word (see above rules)>
+web send -s <url> -a <request amount> -p <size> -w <data (use _ instead spaces)>
 ```
 
-### With Multicore
-Using total CPU and RAM.
+### With multicore
+Using all available cpu and ram;
 
-- To enable multicore.
+- Enable muticore:
 ```csharp
 experimental true
 ```
 ```csharp
-web multicore -v <threads size>
+web multicore -v <threads amount>
 ```
 
-<br>
+### Useful commands
 
-- First example, sending a IP Request for IP Address.
-```csharp
-web send -a <ip> -a <request amount> -p <request size> -i <port>
-```
-
-- Second example, sending a Web HTTP Request for a Website.
-```csharp
-web send -s <url> -a <request amount> -p <request size> -w <request word (see above rules)>
-```
-
-### Other Commands
-
-- Clear all console input and output.
+- To clear all console input:
 ```csharp
 clear
 ```
 
-## Social Medias
+## Socials
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
 
 ## License
-This project particularly don't have restrictions. Community help will be great, if you wanna help me with your modification, send in [Pull requests](https://github.com/MrSev7en/ultimate-most-advanced/pulls).
-
-But the license is [MIT](https://github.com/MrSev7en/ultimate-most-advanced/blob/master/LICENSE), check clicking in link.
-
-If you wanna share this, please give me copyright.
+This project was based on [MIT](https://github.com/MrSev7en/ultimate-most-advanced/blob/master/LICENSE) license.
