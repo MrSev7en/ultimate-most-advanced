@@ -58,6 +58,8 @@ clear
 
 ## Socials
 🐦 Twitter: [@MrSev7en](https://twitter.com/MrSev7en/)
+<br>
+📷 Instagram: [@MrSev7en](https://instagram.com/MrSev7en/)
 
 ## License
 This project was based on [MIT](https://github.com/MrSev7en/ultimate-most-advanced/blob/master/LICENSE) license.
