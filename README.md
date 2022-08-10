@@ -1,4 +1,4 @@
-# Ultimate Most Advanced - Console Version
+# Ultimate Most Advanced
 
 <div>
   <p>
