@@ -1,4 +1,4 @@
-# Ultimate Most Advanced
+# Ultimate Most Advanced - Console Version
 
 <div>
   <p>
@@ -12,7 +12,7 @@
 🔰 An advanced console for windows users including several useful functions.
 This project is deprecated. New version soon.
 
-## Description
+## Functions
 💻 Ultimate Most Advanced (aka U.M.A) was developed with purpose to make several http requests in high scale.
 At this version, project inlcudes these functions:
 
